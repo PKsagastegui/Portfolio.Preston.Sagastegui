@@ -2,8 +2,8 @@
 layout: cv
 title: Preston Sagastegui Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Preston Sagastegui
+Marketing Consultant, Product Management, Data Science.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -17,73 +17,43 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Business Analytics and Data Science
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2020 - Present`
+__Brigham Young University, Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Projects
 
-- Sizar
+`January 2025 - Present`
+__Data Science Society__, Rexburg, Idaho
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Manage and optimize databases, performing data cleaning, transformation and ETL processes using SQL and Python to improve AI-driven truck routing with Ollama AI and Fleetbase
+- Develop and automate AI-driven workflows (Ollama LLM) with prompt engineering, enhancing predictive analytics, route optimization, and UI/UX integration for improved decision making
 
-- Fellow
+`January 2025 - Present`
+__SubLens Independent Project__, Rexburg, Idaho
 
+- •	Engineering  AI-powered smart glasses integrating NLP (PyTorch, OpenAI Whisper, Google Translate API) with AR text overlay achieving real-time multilingual translation with a sub-1-second latency 
 
+## Experience
 
-## Awards
+`February 2023 - Present`
+__Freelance Digital Marketing Consulant__, Hybrid
 
-`2012`
-President, *Royal Society*, London, UK
+- Optimized and managed ad accounts for Gameday Men’s Health & Solomon Law Group, increasing lead conversions by 30% with A/B testing, audience segmentation and automation
+- Automated lead management with Zapier and CRM integrations, reducing contact time by 99%
+- Consulted on growth strategies for 15+ businesses, managing $2k+ monthly ad budgets, optimizing campaigns, and creating data-driven content for higher engagement and ROI
 
-Associate, *French Academy of Science*, Paris, France
+`February 2023 - Present`
+__General Manager__, Cocomo Confections
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Optimized website UX/UI and landing pages SEO, driving a 25% sales increase in 3 months
+- Implemented data-driven digital marketing strategies, resulting in a 94% increase in customer base
+- Conducted in-depth statistical analysis and created data visualizations to inform strategic business decisions improving forecasting accuracy by 25%
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2025 -->
